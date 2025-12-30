@@ -1,6 +1,6 @@
 ### Hi there, I'm a Grade 11 Student & Developer! 👋
 
-I'm an aspiring engineer from Thailand, currently balancing life as a **Student Council member** 👔 and an **Young Developer**. I love the intersection of software (AI/ML) and hardware (Robotics) and even Com-Sci Theory.
+I'm an aspiring engineer from Thailand, currently balancing life as a **Student Council member** 👔 and a **Young Developer**. I love the intersection of software (AI/ML) and hardware (Robotics) and even Com-Sci Theory.
 
 - 🔭 **I’m currently learning:** C++ for Competitive Programming.
 - 🏆 **Recent Milestone:** Advanced to the **National Round** with an AI-powered Fruit Sorting Machine & Develop Real Estate Recommendation System (Hybrid Search using Keyword + Vector).

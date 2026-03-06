@@ -1,12 +1,14 @@
 ### Hi there, I'm a Grade 11 Student & Developer! 👋
 
-I'm an aspiring engineer from Thailand, currently balancing life as a **Student Council member** 👔 and a **Young Developer**. I love the intersection of software (AI/ML) and hardware (Robotics) and even Com-Sci Theory.
+I'm an aspiring engineer from Thailand, currently balancing life as a **Market Researcher** 👔 and a **Young Developer**. I love the intersection of software (AI/ML) and hardware & Infrastructure and even Com-Sci Theory.
 
-- 🔭 **I’m currently learning:** C++ for Competitive Programming.
+- 💼 **Career:** I'm currently a grade 11 student moving grade 12! Also, Studying Com-Sci in advanced @ STOU (1st Year!!). and right now, I'm a part of a Market Research Team looking for funding for series A business.
+- 🔭 **I’m currently learning:** C++ for Competitive Programming & DSA.
 - 🏆 **Recent Milestone:** Advanced to the **National Round** with an AI-powered Fruit Sorting Machine & Develop Real Estate Recommendation System (Hybrid Search using Keyword + Vector).
 - 👯 **I’m looking to collaborate on:** Open source AI projects or Hackathons.
 - 🎹 **Ask me about:** Com-Sci Theory, Digital, Technology and the Apple Ecosystem.
 - ⚡ **Fun fact:** I've been in Tech field without PC for 3 years.
+- 💻 **Certs:** Network & Infrasturcture (MikroTik Certificated of MTCNA, MTCRE, MTCINE)
 
 ---
 
@@ -23,7 +25,7 @@ I'm an aspiring engineer from Thailand, currently balancing life as a **Student 
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Projects (Not actively update)
 
 | Project | Description | Stack |
 | :--- | :--- | :--- |

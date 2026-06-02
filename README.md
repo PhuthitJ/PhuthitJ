@@ -1,8 +1,8 @@
-# Hi there, I'm Phuthit (M). A Grade 11 Student & Developer! 👋
+# Hi there, I'm Phuthit (M). A Grade 12 Student & Developer! 👋
 
 I'm an aspiring engineer from Thailand, currently balancing life as a **Market Researcher** 👔 and a **Young Developer** 💻. I love the intersection of software (AI/ML) and hardware & Infrastructure and even Com-Sci Theory.
 
-- 💼 **Career:** I'm currently a grade 12 student! Also, Studying Com-Sci in advanced @ STOU (1st Year!). and right now, I'm a part of a Market Research Team looking for funding for series A business.
+- 💼 **Career:** I'm currently a grade 12 student! Also, Studying Com-Sci in advanced @ STOU. and right now, I'm a part of a Market Research Team looking for funding for series A business.
 - 🔭 **I’m currently learning:** C++ for Competitive Programming & DSA.
 - 🎯 **I'm currently focusing on:** AI/ML and Maths.  
 - 👯 **I’m looking to collaborate on:** Open source AI projects or Hackathons.
